@@ -1,7 +1,3 @@
-<!-- 🌌 Banner principal -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTV4cDhyZXV2ano5NHBobHZ5M3FyMDN4eXFjYnhxM2M1ZnRqZGxoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OiU4E2Y8tSU0/giphy.gif" width="100%" alt="Banner de Robótica y Programación"/>
-</p>
 
 # 👋 Hi there, I'm **Wilberth Loredo** 💻🤖  
 🎓 *Computer Science & Robotics Engineering Student*  
