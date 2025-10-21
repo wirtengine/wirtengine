@@ -1,6 +1,6 @@
 <!-- 🌌 Banner principal -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215N2ZsamF0MzVmcTBqZG44ZmVsdmZzY2I5aXFqNDlteDRiOTM1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/geuXiMq0MNqfAyxS7b/giphy.gif" width="100%" alt="Banner de Robótica y Programación"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTV4cDhyZXV2ano5NHBobHZ5M3FyMDN4eXFjYnhxM2M1ZnRqZGxoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OiU4E2Y8tSU0/giphy.gif" width="100%" alt="Banner de Robótica y Programación"/>
 </p>
 
 # 👋 Hi there, I'm **Wilberth Loredo** 💻🤖  
@@ -118,16 +118,7 @@ I love exploring the intersection of **software development** and **robotic syst
 I’m constantly working on projects that merge **robotics**, **AI**, and **embedded software**.  
 Check out my repositories for autonomous systems, motion control, and IoT devices 🛠️🚀  
 
----
-
-## 🌌 Contact Me 📫  
-- ✉️ **Email:** [wirtbillirt@gmail.com](mailto:wirtbillirt@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/wirtbillirt](https://linkedin.com/in/wirtbillirt)  
-- 🧠 **GitHub:** [github.com/wirtengine](https://github.com/wirtengine)  
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBukh5y3Y4TxmHK/giphy.gif" width="300px" alt="Thanks GIF"/><br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNtaDB0dm9iNW94Mzh6MDBzMWlla3B5OTV6bXNyMHh3em14dDBlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cyBFFJ9kErbuw8xNXc/giphy.gif" width="300px" alt="Thanks GIF"/><br>
   ⭐ *Thanks for visiting my profile!* ⭐  
 </p>
