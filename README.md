@@ -1,6 +1,6 @@
 <!-- 🌌 Banner principal -->
 <p align="center">
-  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="100%" alt="Banner Robótica y Creatividad"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215N2ZsamF0MzVmcTBqZG44ZmVsdmZzY2I5aXFqNDlteDRiOTM1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/geuXiMq0MNqfAyxS7b/giphy.gif" width="100%" alt="Banner de Robótica y Programación"/>
 </p>
 
 # 👋 Hi there, I'm **Wilberth Loredo** 💻🤖  
@@ -8,16 +8,6 @@
 
 > _“Programming isn't about what you know — it's about what you can figure out.”_  
 > — **Chris Pine**
-
----
-
-## 🎶✨ A Creative Mind in Robotics & Code
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY4YzU4b2Nud3kzOGh1dTF1c3J6ZWVlaGlzYzFlNGl2Nml1N3owZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c6lYBAYttKg8w/giphy.gif" width="280px" alt="Taylor Swift creative"/>
-  <img src="https://media.giphy.com/media/3ohhwiF6vJmLzXyN7m/giphy.gif" width="280px" alt="Robotic arm engineering"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280px" alt="Coding Matrix"/>
-</p>
 
 ---
 
@@ -37,7 +27,7 @@ I love exploring the intersection of **software development** and **robotic syst
 ---
 
 ## 💻 Tech Interests 🚀
-<img align="right" width="300px" alt="Tech GIF" src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif"/>
+<img align="right" width="300px" alt="Tech GIF" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 - ⚙️ **Backend Development**  
 - 📱 **Mobile & Web Development**  
@@ -128,10 +118,16 @@ I love exploring the intersection of **software development** and **robotic syst
 I’m constantly working on projects that merge **robotics**, **AI**, and **embedded software**.  
 Check out my repositories for autonomous systems, motion control, and IoT devices 🛠️🚀  
 
+---
+
+## 🌌 Contact Me 📫  
+- ✉️ **Email:** [wirtbillirt@gmail.com](mailto:wirtbillirt@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/wirtbillirt](https://linkedin.com/in/wirtbillirt)  
+- 🧠 **GitHub:** [github.com/wirtengine](https://github.com/wirtengine)  
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0NTh6d2t1bGd0Y3ZyZmJ4a2RrZ3A0d2Q4ZGtsNjR4N29yNXduNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300px" alt="Taylor Swift Studio"/>
-  <img src="https://media.giphy.com/media/3ohhwiF6vJmLzXyN7m/giphy.gif" width="300px" alt="Robotic Engineering"/>
-  <br><br>
+  <img src="https://media.giphy.com/media/26xBukh5y3Y4TxmHK/giphy.gif" width="300px" alt="Thanks GIF"/><br>
   ⭐ *Thanks for visiting my profile!* ⭐  
 </p>
