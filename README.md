@@ -1,81 +1,124 @@
-Wilberth Loredo 👋
+Wilberth Loredo 👋💻🤖
+
+<div align="center">
 
 https://media.giphy.com/media/l0HU7JI1m1eEwz7XW/giphy.gif
 
-🎓 About Me
+Computer Science & Robotics Engineering Student 🎓
 
-I'm a passionate Computer Science and Robotics Engineering student with strong mathematical foundations and programming skills. I love exploring the intersection of software development and physical computing!
+"Programming isn't about what you know, it's about what you can figure out." - Chris Pine 💭
 
-💻 Technical Interests
+</div>
+
+🎓 About Me 👨‍🎓
+
+I'm a passionate Computer Science and Robotics Engineering student 🤖 with strong mathematical foundations 🧮 and programming skills 💻. I love exploring the intersection of software development and physical computing! 🔌
+
+💻 Technical Interests 🚀
+
+<div align="center">
 
 https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif
 
-· Backend Development
-· Web & Mobile Development
-· Microcontroller Programming
-· Robotics & Automation
+</div>
 
-🔧 Skills & Technologies
+· ⚙️ Backend Development
+· 📱 Web & Mobile Development
+· 🔌 Microcontroller Programming
+· 🤖 Robotics & Automation
 
-🤖 Robotics
+🔧 Skills & Technologies 🛠️
+
+🤖 Robotics 🦾
+
+<div align="center">
 
 https://media.giphy.com/media/XREssOgIlvLtTdckj1/giphy.gif
 
-· Robotics Programming
-· Introduction to Robotics
-· Robotic Manipulation
-· Motion Planning & Control
+</div>
 
-💻 Programming
+· 🤖 Robotics Programming
+· 📚 Introduction to Robotics
+· 🦿 Robotic Manipulation
+· 🎯 Motion Planning & Control
+
+💻 Programming 💾
 
 ```python
-# Strong fundamentals in:
-- Algorithms & Data Structures
-- Object-Oriented Programming
-- Mathematical Programming
-- Embedded Systems Programming
+# 🎯 Strong fundamentals in:
+- Algorithms & Data Structures 📊
+- Object-Oriented Programming 🏗️
+- Mathematical Programming 🧮
+- Embedded Systems Programming 🔌
 ```
 
-🔌 Microcontrollers & Hardware
+🔌 Microcontrollers & Hardware ⚡
+
+<div align="center">
 
 https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif
 
-· Arduino • ESP32 • Raspberry Pi
-· Sensor Integration
-· Motor Control Systems
-· PCB Design & Prototyping
+</div>
 
-🌐 Web & Mobile Development
+· 🛠️ Arduino • ESP32 • Raspberry Pi
+· 📡 Sensor Integration
+· 🎮 Motor Control Systems
+· 🔋 PCB Design & Prototyping
+
+🌐 Web & Mobile Development 📲
+
+<div align="center">
 
 https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif
 
-· Backend APIs & Services
-· Database Design
-· Mobile App Development
-· Cloud Integration
+</div>
 
-📚 Currently Exploring
+· 🌐 Backend APIs & Services
+· 🗃️ Database Design
+· 📱 Mobile App Development
+· ☁️ Cloud Integration
+
+📚 Currently Exploring 🔍
+
+<div align="center">
 
 https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif
 
-· Advanced Robotics Algorithms
-· Machine Learning for Robotics
-· Real-time Systems
-· Computer Vision Applications
+</div>
 
-📊 GitHub Stats
+· 🧠 Advanced Robotics Algorithms
+· 🤖 Machine Learning for Robotics
+· ⚡ Real-time Systems
+· 👁️ Computer Vision Applications
 
-https://github-readme-stats.vercel.app/api?username=wirtengine&show_icons=true&theme=radical
+📊 GitHub Stats 📈
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=wirtengine&layout=compact&theme=radical
+<div align="center">
 
-🚀 Projects & Contributions
+https://github-readme-stats.vercel.app/api?username=wirtengine&show_icons=true&theme=radical&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=wirtengine&layout=compact&theme=radical&hide_border=true
+
+</div>
+
+🚀 Projects & Contributions 🎯
+
+<div align="center">
 
 https://media.giphy.com/media/YS53DcYzBd9kH0aPqY/giphy.gif
-I'm always working on exciting projects that combine software development with robotics and hardware integration.Check out my repositories to see my latest work!
+
+</div>
+
+I'm always working on exciting projects that combine software development with robotics and hardware integration! 🛠️✨ Check out my repositories to see my latest work! 📂🚀
 
 ---
 
-"Programming isn't about what you know, it's about what you can figure out." - Chris Pine
+<div align="center">
 
 https://media.giphy.com/media/XEDZUKqjt8Bvhs6Cku/giphy.gif
+
+⭐ Thank you for visiting my profile! ⭐
+
+</div>
+
+---
